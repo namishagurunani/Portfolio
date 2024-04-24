@@ -1,8 +1,6 @@
-### Description
+### My portfolio 
 
-My portfolio 
-
-### [live preview](https://portfolio-sandy-six-55.vercel.app/)
+# [live preview](https://portfolio-sandy-six-55.vercel.app/)
 
 ### Features
 
