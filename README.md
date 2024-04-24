@@ -1,4 +1,4 @@
-### My portfolio 
+### My Portfolio 
 
 # [live preview](https://portfolio-sandy-six-55.vercel.app/)
 
