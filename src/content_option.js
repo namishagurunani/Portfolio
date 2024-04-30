@@ -97,7 +97,7 @@ const services = [
 const dataportfolio = [
     {
         img: "https://i.postimg.cc/2jGm4wqK/Screenshot-2024-04-24-215010.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Google drive using React and Firebase",
         link: "https://react-google-drive.vercel.app/",
     },
     {
@@ -108,69 +108,69 @@ const dataportfolio = [
     
     {
         img: "https://i.postimg.cc/15qzbxdt/Screenshot-2024-04-24-212622.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Geeks using React",
         link: "https://geeks-food-routing.vercel.app/",
     },
     {
         img: "https://i.postimg.cc/h4LBWSrf/Screenshot-2024-04-24-214441.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "LeaderBoard using Javascript",
         link: "https://namishagurunani.github.io/JavascriptProjects/LeaderBoard/",
     },
     {
         img: "https://i.postimg.cc/rFRn8yLN/Screenshot-2024-04-24-213039.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Directory-app using React",
         link: "https://react-directory-app.vercel.app/",
     },
     {
         img: "https://r2.easyimg.io/7e6v8vuzo/screenshot_2024-04-24_193727.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Payment-Gateway using Javascript",
         link: "https://mayankkatheriya.github.io/Mct_4/Namisha_Payment-integration/",
     },
     
     {
         img: "https://i.postimg.cc/vTk0Wk5n/Screenshot-2024-04-24-213450.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Unsplash using Javascript",
         link: "https://unsplash-project-two.vercel.app/",
     },
     
     {
         img: "https://i.postimg.cc/y6STWtR4/Screenshot-2024-04-24-215316.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Pokemon Cards using Javscript", 
         link: "https://namishagurunani.github.io/Pokemon/pokemon/",
     },
     {
         img: "https://i.postimg.cc/k5SqKP8Q/Screenshot-2024-04-24-214927.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Bill Calculator using Jvascript",
         link: "https://namishagurunani.github.io/JAVASCRIPT/Tip-Calculator/",
     },
     {
         img: "https://i.postimg.cc/mrYKTLC5/Screenshot-2024-04-24-214702.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Github using Javascript",
         link: "https://namishagurunani.github.io/Javascriptweek-6/GitHub%20Finder/",
     },
     {
         img: "https://i.postimg.cc/gjFCpxBQ/Screenshot-2024-04-24-231745.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://naughty-cray-767d32.netlify.app/",
+        description: "",
+        link: "Gymnasium UI using Tailwind",
     },
     {
         img: "https://i.postimg.cc/FHpNxVnR/Screenshot-2024-04-24-231931.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Mytra using HTML and CSS",
         link: "https://namishagurunani.github.io/Myntra/",
     },
     {
         img: "https://i.postimg.cc/ZnmJcsZW/Screenshot-2024-04-24-232952.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Major Project using HTML and CSS",
         link: "https://namishagurunani.github.io/MajorProject/",
     },
     {
         img: "https://i.postimg.cc/bYnBTN6C/Screenshot-2024-04-24-233741.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Interactive Data Visualization with Dynamic Charts using Html CSS and Javascript",
         link: "https://namishagurunani.github.io/Dynamic-Chart_with_Real-Time_Data/Interactive-Data-Visualization/",
     },
     {
         img: "https://i.postimg.cc/7PNQcQk0/Screenshot-2024-04-24-234206.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Animations using HTML and CSS",
         link: "https://namishagurunani.github.io/Animation/",
     },
 ];
