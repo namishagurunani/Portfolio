@@ -101,14 +101,14 @@ const dataportfolio = [
         link: "https://react-google-drive.vercel.app/",
     },
     {
-        img: "https://images.ctfassets.net/4cd45et68cgf/637ArQo6YNsJf48Xw3zUAg/d030f9065a0fe54de777eaa600cf3fcb/N-Games_March_936x622.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/FFW7nrmX/Screenshot-2024-05-01-014330.png",
+        description: "Netflix using Node.js and Express.js",
         link: "https://main--netflix.netlify.app/",
     },
     
     {
         img: "https://i.postimg.cc/15qzbxdt/Screenshot-2024-04-24-212622.png",
-        description: "Geeks using React",
+        description: "GeeksFood using React",
         link: "https://geeks-food-routing.vercel.app/",
     },
     {
@@ -122,7 +122,7 @@ const dataportfolio = [
         link: "https://react-directory-app.vercel.app/",
     },
     {
-        img: "https://r2.easyimg.io/7e6v8vuzo/screenshot_2024-04-24_193727.png",
+        img: "https://i.postimg.cc/tJTtQBYq/Screenshot-2024-05-01-015404.png",
         description: "Payment-Gateway using Javascript",
         link: "https://mayankkatheriya.github.io/Mct_4/Namisha_Payment-integration/",
     },
@@ -150,8 +150,8 @@ const dataportfolio = [
     },
     {
         img: "https://i.postimg.cc/gjFCpxBQ/Screenshot-2024-04-24-231745.png",
-        description: "",
-        link: "Gymnasium UI using Tailwind",
+        description: "Gymnasium UI using Tailwind",
+        link: "https://namishagurunani.github.io/major_project-tailwind/dist/index.html",
     },
     {
         img: "https://i.postimg.cc/FHpNxVnR/Screenshot-2024-04-24-231931.png",
@@ -160,7 +160,7 @@ const dataportfolio = [
     },
     {
         img: "https://i.postimg.cc/ZnmJcsZW/Screenshot-2024-04-24-232952.png",
-        description: "Major Project using HTML and CSS",
+        description: "Business Aria using HTML and CSS",
         link: "https://namishagurunani.github.io/MajorProject/",
     },
     {
