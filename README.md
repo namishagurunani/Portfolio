@@ -1,7 +1,7 @@
 ### My Portfolio 
 ![Screenshot 2024-04-25 005047](https://github.com/namishagurunani/Portfolio/assets/126158413/d72fc101-91fc-4f34-a719-ef38d2a9bcfa)
 
-# [live preview](https://netflix-website.netlify.app/)
+# [live preview](https://portfolio-sandy-six-55.vercel.app/)
 
 ### Features
 
