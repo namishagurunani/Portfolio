@@ -103,7 +103,7 @@ const dataportfolio = [
     {
         img: "https://i.postimg.cc/FFW7nrmX/Screenshot-2024-05-01-014330.png",
         description: "Netflix using Node.js and Express.js",
-        link: "https://main--netflix.netlify.app/",
+        link: "https://netflix-website.netlify.app/",
     },
     
     {
